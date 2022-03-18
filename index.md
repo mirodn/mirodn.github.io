@@ -1,6 +1,6 @@
 # Hello, I'm Miro Duman
 
-A business information system student from Switzerland.
+A <span style="color:blue">business information system</span> student from Switzerland.
 I aim to deepen my understanding in various 
 areas of technology and product development.
 
@@ -10,7 +10,7 @@ ___
 - project2
 - project3
 ___
-__Contact__  
-[LinkedIn](https://www.linkedin.com/in/miro-duman/)
+Contact  
+<span style="color:blue">[LinkedIn](https://www.linkedin.com/in/miro-duman/)</span>
 
-<span style="color:blue">some *blue* text</span>
+
