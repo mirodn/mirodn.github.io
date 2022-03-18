@@ -3,7 +3,7 @@
 __Information__ 📙
 ```java
 System.out.println("A business information technology student from Switzerland.   
-I aim to deepen my understanding in various areas of technology and product development. ");
+I aim to deepen my understanding in various areas of technology and product development.");
 ```
 
 ### Projects
