@@ -9,10 +9,9 @@ I aim to deepen my understanding in various areas of technology and product deve
 ### Projects
 ___
 
-- __project 1__ / _in progress..._
-- __project 2__ / _in progress..._
-- __project 3__ / _in progress..._
-
+- __project 1__ / in progress...
+- __project 2__ / in progress...
+- __project 3__ / in progress...  
 ___
 
 __Contact__  
