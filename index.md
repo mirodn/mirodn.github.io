@@ -1,6 +1,6 @@
 # Hello, I'm <span style="color:blue">Miro Duman</span>
 
-__Information__:orange_book:
+__Information__ :orange_book:
 ```java
 System.out.println("A business information technology student from Switzerland.   
 I aim to deepen my understanding in various areas of technology and product development. ");
