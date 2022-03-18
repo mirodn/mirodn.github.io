@@ -12,7 +12,8 @@ ___
 - __project 1__ / in progress...
 - __project 2__ / in progress...
 - __project 3__ / in progress...  
-___
+
+***
 
 __Contact__  
 <span style="color:blue">[LinkedIn](https://www.linkedin.com/in/miro-duman/)</span>
