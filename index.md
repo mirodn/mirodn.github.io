@@ -1,21 +1,20 @@
 # Hello, I'm <span style="color:blue">Miro Duman</span>
 
-Information
+__Information__:orange_book:
 ```java
-System.out.println("A business information system student from Switzerland.   
+System.out.println("A business information technology student from Switzerland.   
 I aim to deepen my understanding in various areas of technology and product development. ");
 ```
 
 ### Projects
 ___
-<img src="http://midgraph.com/post/85372586836/cyber-planet-90f-and-400px-test-and-yeah-yeah" />
 
-- project 1
-- project 2
-- project 3
+- __project 1__ / _in progress..._
+- __project 2__ / _in progress..._
+- __project 3__ / _in progress..._
 ___
 
-### Contact  
+__Contact__  
 <span style="color:blue">[LinkedIn](https://www.linkedin.com/in/miro-duman/)</span>
 
 
