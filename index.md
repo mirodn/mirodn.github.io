@@ -1,4 +1,4 @@
-# Hello, I'm <span style="color:blue">Miro Duman</span>
+# Hello, I'm <span style="color:blue">Miro Duman</span> 👋 
 
 __Information__ 📙
 ```java
